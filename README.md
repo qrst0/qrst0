@@ -11,13 +11,9 @@
 <a href="https://github.com/qrst0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<!-- TODO: replace RESUME-URL with a link to your CV (e.g. a PDF in this repo, Google Drive, or Notion),
-     then uncomment the block below to show a Resume button.
-<a href="RESUME-URL">
+<a href="https://drive.google.com/file/d/17QMSo7Ha3AcUn7Bedq2m_OrPiSiRF85q/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
--->
 
 </div>
 
@@ -119,7 +115,7 @@
 | 🔍 **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `Algorithms` |
 | 🕸️ **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Web` |
 | 🃏 **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `OOP` |
-| 🏅 **Arkavidia CP 2024** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` · *private* |
+| 🏅 **[Arkavidia CP 2024](https://github.com/qrst0/arkavidia-cp-2024)** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` · *private* |
 
 ---
 
