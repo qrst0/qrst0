@@ -115,14 +115,6 @@
 | 🔍 **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `Algorithms` |
 | 🕸️ **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Web` |
 | 🃏 **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `OOP` |
-| 🏅 **[Arkavidia CP 2024](https://github.com/qrst0/arkavidia-cp-2024)** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` · *private* |
+| 🏅 **[Arkavidia CP 2024](https://github.com/qrst0/arkavidia-cp-2024)** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` |
 
 ---
-
-<div align="center">
-
-✨ Thanks for stopping by! Let's build something great together ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:1e3a8a&height=120&section=footer" alt="footer" width="100%" />
-
-</div>
