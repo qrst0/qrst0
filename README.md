@@ -3,16 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Kristo%20Anugrah&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20B.S.%20Informatics%20Engineering%2C%20ITB%202026&descAlignY=58&descSize=16" alt="banner" width="100%" />
 
 <a href="https://www.linkedin.com/in/kristo-anugrah/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://codeforces.com/profile/kristo31">
+  <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
 <a href="https://github.com/qrst0">
-  <img src="https://img.shields.io/badge/GitHub-qrst0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <!-- TODO: replace RESUME-URL with a link to your CV (e.g. a PDF in this repo, Google Drive, or Notion),
      then uncomment the block below to show a Resume button.
 <a href="RESUME-URL">
-  <img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 -->
 
@@ -20,79 +23,131 @@
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-Software engineer and 2026 Informatics Engineering graduate of **Institut Teknologi Bandung**, building across web, mobile, and algorithm-heavy systems.
-
-- **Full-stack web development** in TypeScript, from database schema through UI
-- **Native Android development** in Kotlin
-- **Strong algorithmic foundation** in C++, from data structures coursework and competitive programming
-- Additional experience with **Python** for computer vision and **Java** for object-oriented design
-
-Currently open to software engineering opportunities. The repositories below are academic and team projects from my degree, which is where most of my public code lives.
-
----
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+- 🎓 Fresh graduate — **B.S. Informatics Engineering**, Institut Teknologi Bandung, 2026
+- 💼 Open to **Software Engineer** roles
+- 🌐 I build **full-stack web apps** with TypeScript, React, and Node.js
+- 📱 I write **native Android apps** in Kotlin
+- ⚡ **Codeforces Expert** — I solve problems as [@kristo31](https://codeforces.com/profile/kristo31)
+- 🧠 Exploring **computer vision** and **applied AI** in Python
+- 🇮🇩 Based in Indonesia
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kristo-anugrah/)
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
+
+**🔤 Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+</p>
+
+**🎨 Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+**⚙️ Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+**🗄️ Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+**🤖 AI / ML**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**🚢 DevOps & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Nelfix](https://github.com/qrst0/Nelfix)** | Streaming-style web application with a full front-end and back-end | `TypeScript` |
-| **[Purrytify](https://github.com/qrst0/Purrytify-Music-App)** | Native Android music player application | `Kotlin` |
-| **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `Algorithms` |
-| **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Web` |
-| **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `OOP` |
-| **Arkavidia CP 2024** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` · *private* |
+| 🎬 **[Nelfix](https://github.com/qrst0/Nelfix)** | Streaming-style web application with a full front-end and back-end | `TypeScript` |
+| 🎵 **[Purrytify](https://github.com/qrst0/Purrytify-Music-App)** | Native Android music player application | `Kotlin` |
+| 🔍 **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `Algorithms` |
+| 🕸️ **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Web` |
+| 🃏 **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `OOP` |
+| 🏅 **Arkavidia CP 2024** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` · *private* |
 
 ---
 
-## Education
+## 🏆 Competitive Programming
+
+**Codeforces — [@kristo31](https://codeforces.com/profile/kristo31)** · Expert (peak rating 1696)
+
+Several years of contest practice in C++, with a focus on graph algorithms, dynamic programming, and string matching.
+
+---
+
+## 🎓 Education
 
 **Institut Teknologi Bandung** — B.S. Informatics Engineering, 2026
 
-Relevant coursework: Algorithm Strategy, Artificial Intelligence, Object-Oriented Programming, Web-Based Development, Computer Vision, Data Structures.
+📚 Relevant coursework: Algorithm Strategy, Artificial Intelligence, Object-Oriented Programming, Web-Based Development, Computer Vision, Data Structures.
 
 ---
 
 <div align="center">
+
+✨ Thanks for stopping by — let's build something great together ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:1e3a8a&height=120&section=footer" alt="footer" width="100%" />
 
