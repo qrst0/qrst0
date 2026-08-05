@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Fresh graduate — **B.S. Informatics Engineering**, Institut Teknologi Bandung, 2026
+- 🎓 Fresh graduate, Institut Teknologi Bandung, 2026
 - 💼 Open to **Software Engineer** roles
 - 🌐 I build **full-stack web apps** with TypeScript, React, and Node.js
 - 📱 I write **native Android apps** in Kotlin
@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
@@ -74,9 +72,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 **🗄️ Databases**
@@ -86,8 +82,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 **🤖 AI / ML**
@@ -129,25 +123,9 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-**Codeforces — [@kristo31](https://codeforces.com/profile/kristo31)** · Expert (peak rating 1696)
-
-Several years of contest practice in C++, with a focus on graph algorithms, dynamic programming, and string matching.
-
----
-
-## 🎓 Education
-
-**Institut Teknologi Bandung** — B.S. Informatics Engineering, 2026
-
-📚 Relevant coursework: Algorithm Strategy, Artificial Intelligence, Object-Oriented Programming, Web-Based Development, Computer Vision, Data Structures.
-
----
-
 <div align="center">
 
-✨ Thanks for stopping by — let's build something great together ✨
+✨ Thanks for stopping by! Let's build something great together ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:1e3a8a&height=120&section=footer" alt="footer" width="100%" />
 
