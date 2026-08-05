@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Kristo%20Anugrah&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20B.S.%20Informatics%20Engineering%2C%20ITB%202026&descAlignY=58&descSize=16" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&fontSize=42&fontColor=2F81F7&text=Hi%2C%20I%27m%20Kristo%20%3A%29" alt="Hi, I'm Kristo :)" width="100%" />
 
 <a href="https://www.linkedin.com/in/kristo-anugrah/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
