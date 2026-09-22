@@ -25,8 +25,7 @@
 - 💼 Open to **Software Engineer** roles
 - 🌐 I build **full-stack web apps** with TypeScript, React, and Node.js
 - 📱 I write **native Android apps** in Kotlin
-- ⚡ **Codeforces Expert** — I solve problems as [@kristo31](https://codeforces.com/profile/kristo31)
-- 🧠 Exploring **computer vision** and **applied AI** in Python
+- ⚡ **Codeforces**: [@kristo31](https://codeforces.com/profile/kristo31)
 - 🇮🇩 Based in Indonesia
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kristo-anugrah/)
 
@@ -112,9 +111,9 @@
 | :--- | :--- | :--- |
 | 🎬 **[Nelfix](https://github.com/qrst0/Nelfix)** | Streaming-style web application with a full front-end and back-end | `TypeScript` |
 | 🎵 **[Purrytify](https://github.com/qrst0/Purrytify-Music-App)** | Native Android music player application | `Kotlin` |
-| 🔍 **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `Algorithms` |
-| 🕸️ **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Web` |
-| 🃏 **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `OOP` |
+| 🔍 **[Fingerprint Identification](https://github.com/qrst0/Tubes3_Franku)** | Biometric individual-detection system built on pattern matching algorithms applied to fingerprint images | `C#` |
+| 🕸️ **[Pembalap Kapas — Frontend](https://github.com/qrst0/Tubes2_FE_Pembalap-Kapas)** | Front-end for a graph-traversal search application, built as a team | `Go` |
+| 🃏 **[Object-Oriented Game System](https://github.com/qrst0/IF2210_TB2_LBR)** | Team project applying inheritance, polymorphism, and design patterns | `Java` |
 | 🏅 **[Arkavidia CP 2024](https://github.com/qrst0/arkavidia-cp-2024)** | Competitive programming solutions from the Arkavidia 2024 contest | `C++` |
 
 ---
